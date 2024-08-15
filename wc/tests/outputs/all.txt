@@ -1,0 +1,4 @@
+       0       0       0 tests/inputs/empty.txt
+       1       5      20 tests/inputs/test1.txt
+       1      82     584 tests/inputs/test2.txt
+       2      87     604 total
