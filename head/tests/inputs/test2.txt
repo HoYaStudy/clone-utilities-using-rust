@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog.
+This sentence serves as a sample for testing outputs.
