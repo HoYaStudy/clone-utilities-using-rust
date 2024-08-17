@@ -9,3 +9,11 @@ This project is to clone GNU utilities using Rust
   * -n
 * `cat`
   * -n, -b
+* `head`
+  * -n, -c
+* `wc`
+  * -l, -w, -c, -m
+* `uniq`
+  * -c
+* `find`
+  * -n, -t
